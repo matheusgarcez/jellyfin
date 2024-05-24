@@ -67,3 +67,8 @@
 ::-webkit-scrollbar {
     display: none
 }
+
+.trackSelections .selectContainer .detailTrackSelect {
+    padding: 5px;
+    border-radius: 7px;
+}
