@@ -36,11 +36,11 @@
 }
 
 .layout-desktop .itemBackdrop {
-    height: 100vh
+    height: 50vh
 }
 
 .layout-desktop .detailImageContainer .card {
-    top: -71vh
+    top: -31vh
 }
 
 .layout-desktop .detailLogo {
